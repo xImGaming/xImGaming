@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/907028319046885436)](https://discord.com/users/907028319046885436)
 
 <!---

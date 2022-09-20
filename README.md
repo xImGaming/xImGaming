@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/907028319046885436)]()
+[![Discord Presence](https://lanyard.cnrad.dev/api/907028319046885436)](https://github.com/xImGaming/xImGaming)
 
 <!---
 xImGaming/xImGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
